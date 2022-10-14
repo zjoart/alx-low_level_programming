@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Print the alphabets in small letter
+ * Print the alphabets
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -14,4 +14,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
